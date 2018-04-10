@@ -61,6 +61,7 @@
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.9.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.44" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.13.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
